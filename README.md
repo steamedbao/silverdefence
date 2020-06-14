@@ -21,7 +21,7 @@ Our model is trained on IBM cloud annotation, classify images in 3 class
 ## Model testing
 
 ```sh
-cd ckassification-react
+cd classification-react
 yarn
 yarn start
 ```
