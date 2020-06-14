@@ -58,6 +58,28 @@ yarn
 yarn start
 ```
 
+## Demo/ScreenShot
+
+#### Normal Accelerometer Reading
+![alt text](./ss1.jpg "Normal Accelerometer Reading")
+
+
+#### Falling Accelerometer Reading
+![alt text](./ss2.jpg "Falling Accelerometer Reading")
+
+
+#### Setup
+![alt text](./setup.jpg "Setup")
+
+
+#### Camera Test
+![alt text](./camera_test.jpg "Camera Test")
+
+
+#### Classification
+![alt text](./classification.jpg "Classification")
+
+
 ### Data File for training
 Our training data under folder trainingData
 
