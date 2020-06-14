@@ -1,6 +1,32 @@
 # Silver Defence
+## Description
+
+Our solution aims to provide immediate assistance to elderly, once there is an emergency in the house such as falling or non-appearance. At the same time, the solution achieves high accuracy for detecting serious incidents, such that resources are channeled efficiently. There will be an accelerometer on wearables which will detect a fall if the acceleration exceeds a preset threshold value. Our method also makes use of image classification using images from an IP camera, which is set up in the living room to take images. These images are processed using the Raspberry Pi server. Image classification is then conducted by IBM Cloud Annotation Services.
+
+
 ---
-## IOT Flask Server
+
+## Video Pitch 
+
+https://youtu.be/s02yc2wPgXE
+
+
+---
+
+## Architecture Of Our Solution
+
+![alt text](./arche.png "Architecture Diagram")
+
+---
+
+## Project Roadmap/ Proposed timeline
+
+---
+
+## Getting started
+
+---
+### IOT Flask Server
 
 ```sh
 cd PiServer
@@ -11,14 +37,14 @@ python test.py
 Require stream sensor data to the server
 
 ---
-## Model
+### Model
 
 Our model is trained on IBM cloud annotation, classify images in 3 class
 1. empty
 2. lying
 3. non lying
 ---
-## Model testing
+### Model testing
 
 ```sh
 cd classification-react
@@ -26,6 +52,14 @@ yarn
 yarn start
 ```
 
-## Data File for training
+### Data File for training
 Our training data under folder trainingData
 
+---
+
+## Service/Tech used to build your solution
+
+1. IBM Cloud Annotation
+2. Raspberry Pi 
+3. Python Flask Server
+4. Tensorflow Image Classification
