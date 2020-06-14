@@ -40,7 +40,7 @@ pip install -r requirement.txt
 python test.py
 ```
 
-Require stream sensor data to the server
+Require stream sensor data to the server, tested using android app 'PhonePi'
 
 ---
 ### Model
