@@ -8,8 +8,8 @@ Our solution aims to provide immediate assistance to elderly, once there is an e
 
 ## Video Pitch 
 
-https://youtu.be/s02yc2wPgXE
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/s02yc2wPgXE/0.jpg)](http://www.youtube.com/watch?v=s02yc2wPgXE)
 
 ---
 
