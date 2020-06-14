@@ -21,6 +21,12 @@ Our solution aims to provide immediate assistance to elderly, once there is an e
 
 ## Project Roadmap/ Proposed timeline
 
+Phase 1 - Research | Phase 2 - Testing | Phase 3 - Deployment
+--- | --- | ---
+Investigate what kind of wearables elderly are keen on having | Conduct studies to obtain test data for accelerometer implemented in finalised wearables | Implement in isolated elderly households
+Investigate willingness of elderly about wearable technology | Input more train images into Tensorflow model | 
+|Test whole system on actual subjects for overall false alarm rate|
+
 ---
 
 ## Getting started
